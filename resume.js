@@ -1,6 +1,5 @@
 // Define Variables
 let my_name = "Favour";
-let my_email = "njo205623@oru.edu"
 let title = "Student";
 let experience = "N/A";
 let education = "Oral Roberts University";
@@ -13,4 +12,3 @@ document.getElementById("my_email").textContent = my_email
 document.getElementById("title").textContent = title
 document.getElementById("experience").textContent = experience
 document.getElementById("education").textContent = education
-document.getElementById("skills").textContent = skills
